@@ -1,0 +1,10 @@
+table.toptekst { 
+    font-size: 80%; 
+	background: #FFFFCC; 
+	color: black;
+	border-width: 0; 
+   width : 100%;
+ }
+ tr {
+	vertical-align : top;
+}
